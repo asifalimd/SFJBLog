@@ -1,0 +1,12 @@
+This is a message from Jitterbit
+ 
+{Operation Name => Account Upsert}
+{Agent Name => JB agent}
+{Environment => development}
+{Project Name => JB project name}
+{Start Time => 2019-09-16 07:00:13}
+{End Time => 2019-09-16 07:12:48}
+{Warning Count => 10}
+{Source Count => 200}
+{Target Count => 190}
+{Error Message => Error Message}
